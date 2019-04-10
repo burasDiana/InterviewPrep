@@ -1,4 +1,4 @@
-# CopenHack2019
+# CopenHack2019 project
 
 ## Interview Prep
 
