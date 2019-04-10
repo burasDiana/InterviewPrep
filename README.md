@@ -14,3 +14,4 @@ The speech analysis  script will record the voice input and compute how much tim
 We used a Deep Neural Net model for performing Human Pose Estimation in OpenCV. The model predicts the posture of a single person in the frame and then checks if the person has a proper posture or not
 
 ### What we learned:
+test
